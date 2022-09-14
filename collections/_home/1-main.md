@@ -13,15 +13,15 @@ media-left: false
 
 
 ---
-# EL NEGOCIO DE LAS VACUNA$
+# THE BUSINESS OF VACCINE$
 
 {:.main-text}
-La industria farmacéutica global y en México ha utilizado diferentes mecanismos para influenciar la toma de decisiones sobre la pandemia. Las empresas ganan a costa de la vida y la salud. Te mostramos quiénes son y como han aumentado sus ingresos las empresas que producen vacunas contra COVID-19
+The pharmaceutical industry, globally and in Mexico, has used different mechanisms to influence decision making on the pandemic. Companies profit at the cost of life and health. We show who the companies that produce COVID-19 vaccines are and how they have increased their earnings.
 
-[Industria Farmacéutica](/Vacunas/industria-farmaceutica)
-[Ruta de las vacuna$](/Vacunas/ruta-de-las-vacunas)
-[Dosis de Opacidad](/Vacunas/contratos-y-beneficiarias)
-[Billone$ de vacunas](https://poderlatam.org/2022/06/estos-son-los-milmillonarios-que-ensancharon-su-fortuna-vendiendo-vacunas-covid-a-mexico/){:target="_blank"}
+[Pharmaceutical Industry](/Vacunas/industria-farmaceutica)
+[Route of vaccine$](/Vacunas/ruta-de-las-vacunas)
+[Dose of Opacity](/Vacunas/contratos-y-beneficiarias)
+[Billion$ of vaccines](https://poderlatam.org/2022/06/estos-son-los-milmillonarios-que-ensancharon-su-fortuna-vendiendo-vacunas-covid-a-mexico/){:target="_blank"}
 
 
 
