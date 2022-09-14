@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Sobre el proyecto
+title: About
 permalink: /sobre-el-proyecto/
 ---
 
-# Quiénes somos
+# Who we are
 
-El Negocio de las Vacuna$ es un proyecto de datos, investigación y periodismo de PODER para transparentar información sobre el proceso de autorización, adquisición y vacunación contra COVID-19 y evidenciar los mecanismos por los cuales las grandes empresas farmacéuticas capturan la toma de decisiones sobre políticas de salud anteponiendo sus ganancias por sobre los derechos humanos. Hacer visible la captura corporativa en el caso de las vacunas contra COVID-19 es el objetivo principal del proyecto.
+The Business of Vaccine$ is a PODER data, research, and journalism project to gather information on the process of authorization, acquisition, and vaccination for COVID-19 and illustrate the mechanisms through which the large pharmaceutical companies capture decision making on health policy placing their profits before human rights. Raising awareness of corporate capture in the case of COVID-19 vaccines is the project’s primary goal.
 
 
-# Metodología
+# Methodology
 
-Siguiendo la [metodología desarrollada por PODER](https://poderlatam.org/metodologia-de-poder-para-la-investigacion-estrategica/) desde hace 12 años que consiste en inteligencia corporativa, seguir el dinero, análisis horizontal y vertical de industrias estratégicas, análisis de datos y tecnología para la transparencia presentamos datos sobre empresas farmacéuticas que tienen desarrollos vacunales contra COVID-19 con autorización de uso de emergencia en al menos un país. También documentamos la falta de transparencia del proceso de autorización, compra y acceso a las vacunas en México. Se utilizan fuentes de información pública y privadas sobre las empresas farmacéuticas. Información pública sobre contratos, autorizaciones de uso de emergencia, ensayos clínicos y presupuesto para la estrategia nacional de vacunación en México obtenidas por la plataforma nacional de transparencia. Por último, los datos globales de proveedores, acuerdos de compra y desarrolladores se han obtenido gracias a la colaboración de UNICEF, actualizados al 04/03/2022 y se pueden encontrar en [UNICEF COVID-19 Vaccine Market Dashboard](https://www.unicef.org/supply/covid-19-vaccine-market-dashboard).
-Los datos que alimentan el micrositio están disponibles en: [Base de datos de empresas, dueños y contratos](https://poderlatam.org/wp-content/uploads/2022/06/VACUNAS-beneficiarios-reales-y-empresas.xlsx) y [Base de datos de UNICEF](https://poderlatam.org/wp-content/uploads/2022/06/20220228_UNICEF_Datasets_Poder.xlsx)
+Following [the methodology developed by PODER](https://poderlatam.org/metodologia-de-poder-para-la-investigacion-estrategica/) 2 years ago, which consists of corporate intelligence, following the money, horizontal and vertical analysis of strategic industries, data analysis, and technology for transparency, we present data on pharmaceutical companies that have developed COVID-19 vaccines with emergency use authorization in at least one country. We also document the lack of transparency in the process of authorization, procurement, and access to vaccines in Mexico. We use public and private sources of information on pharmaceutical companies. Public information on contracts, emergency use authorizations, clinical trials, and budgeting for the national vaccination strategy in Mexico obtained from the national transparency platform. Lastly, global data from providers, purchase agreements, and developers was obtained thanks to collaboration with UNICEF, updated as of 03/04/2022 and can be found on the [UNICEF COVID-19 Vaccine Market Dashboard](https://www.unicef.org/supply/covid-19-vaccine-market-dashboard).
+The data that feed the microsite are available at  the: [Database of companies, owners, and contracts](https://poderlatam.org/wp-content/uploads/2022/06/VACUNAS-beneficiarios-reales-y-empresas.xlsx) and [UNICEF database](https://poderlatam.org/wp-content/uploads/2022/06/20220228_UNICEF_Datasets_Poder.xlsx)
 
 ## Metodología la Ruta de las Vacuna$
 La Ruta de las Vacuna$ es una representación cartográfica de información de los acuerdos de compra que han hechos en todo el mundo las empresas farmacéuticas con las que México ha firmado contratos para la adquisición de vacunas contra la COVID-19 o ha recibido a través de donaciones. Como punto de origen, se consideran los países en donde se ubican los puntos de producción para cada contrato y como destino los países que firmaron los acuerdos de compra. Se incluyen todas las versiones de vacunas contra la COVID-19 que cada farmacéutica vendió. En esta ocasión no incluimos en el mapa los contratos de organizaciones, como los hechos por la Unión Africana, la Unión Europea, COVAX y UNICEF, con las empresas, por no contar con información sobre el país de destino. La base de datos está actualizada al 04 de marzo de 2022 y se obtuvo gracias a la colaboración de UNICEF, se puede consultar en [UNICEF COVID-19 Vaccine Market Dashboard](https://www.unicef.org/supply/covid-19-vaccine-market-dashboard). Además, se añadió información de los puntos de producción en Estados Unidos para Pfizer, usando como referencia la información del [informe anual de la empresa](https://www.sec.gov/ix?doc=/Archives/edgar/data/0000078003/000007800322000027/pfe-20211231.htm) y el artículo [Cómo fabrica Pfizer su vacuna para la COVID-19](https://www.nytimes.com/es/interactive/2021/health/pfizer-vacuna-covid.html).
@@ -23,22 +23,22 @@ La Ruta de las Vacuna$ es una representación cartográfica de información de l
 El proyecto utiliza el sistema [Tower Builder](https://towerbuilder.readthedocs.io/es/latest/index.html), creado por PODER, para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes procesos de compra, se ha usado anteriormente para el monitoreo de grandes obras públicas como en [TorreDeControl](https://poderlatam.org/project/naicm/) y de las [compras públicas del IMSS](https://saluddineroycorrupcion.quienesquien.wiki/es/salud)
  
 
-# Créditos
+# Credits
 
-Investigación: Daniel Castrejón, Diana Silva, María Julieta Lamberti, Samantha Camacho y Salma Valdes
+Research: Daniel Castrejon, Diana Silva, Maria Julieta Lamberti, Samantha Camacho, and Salma Valdes
 
-Análisis de datos: Queletzú Aspra
+Data analysis: Queletzu Aspra
 
-Cartografía: Samantha Camacho y Queletzú Aspra
+Cartography: Samantha Camacho and Queletzu Aspra
 
-Desarrollo: Marisol Carrillo
+Development: Marisol Carrillo
 
-Diseño editorial e ilustración: Adrián Sánchez Martínez
+Editorial design and illustration: Adrian Sanchez Martinez
 
-Redes sociales: Mariela Álvarez Alatriste
+Social media: Mariela Alvarez Alatriste
 
-Comunicación Externa: Miguel Soto
+External Communication: Miguel Soto
 
-Dirección del Proyecto: María Julieta Lamberti
+Project Director: Maria Julieta Lamberti
 
-Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
+Co-Executive Director: Elena Arengo and Fernanda Hopenhaym
