@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: precio.png
+image: precio_ENG.png
 ---
 
 # CORPORATE SECRECY. PROTECT COMPANIES BEFORE PEOPLE
