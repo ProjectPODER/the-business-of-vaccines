@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /sobre-el-proyecto/
+permalink: /about/
 ---
 
 # Who we are
