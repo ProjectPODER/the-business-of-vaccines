@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Vaccine$ in Mexico
-permalink: /vacunas-en-mexico/
+permalink: /vaccines-in-mexico/
 ---
 
 # Capture of vaccines in Mexico
