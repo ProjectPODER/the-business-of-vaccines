@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: precio_ENG.png
+image: accionesempresas_ENG.png
 ---
 
 # Companies profit with the pandemic
