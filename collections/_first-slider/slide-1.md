@@ -3,6 +3,6 @@ title: First Slide
 image: waffle_3.png
 ---
 
-# VACUNAS COVID-19
+# COVID-19 VACCINES
 
-Según la [Organización Mundial de la Salud (OMS)](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines) al 25 de Mayo de 2022 hay 198 candidatas vacunales en desarrollo pre clínico y 157 candidatas vacunales en desarrollo clínico. De los desarrollos que han finalizado o están por finalizar su fase de ensayos clínicos [el COVID-19 vaccine market dashboard de UNICEF](https://www.unicef.org/supply/covid-19-vaccine-market-dashboard) nos muestra que 36 han sido aprobadas para uso de emergencia en al menos un país y de estas 11 vacunas están en la [lista de uso de emergencia de la OMS](https://extranet.who.int/pqweb/vaccines/vaccinescovid-19-vaccine-eul-issued).
+According to the [World Health Organization (WHO)](https://www.who.int/publications/m/item/draft-landscape-of-covid-19-candidate-vaccines) as of May 25, 2022, there were 198 vaccine candidates in preclinical development and 157 vaccine candidates in clinical development. Of developments that have completed or are close to completing clinical trials, the [UNICEF COVID-19 vaccine market dashboard](https://www.unicef.org/supply/covid-19-vaccine-market-dashboard) shows that 36 have been approved for emergency use in at least one country, and of those 11 vaccines are on the [WHO emergency use list.](https://extranet.who.int/pqweb/vaccines/vaccinescovid-19-vaccine-eul-issued).
