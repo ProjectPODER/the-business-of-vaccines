@@ -1,8 +1,8 @@
 ---
 title: Slide 2
-image: desigualdadvacunas.png
+image: desigualdadvacunas_ENG.png
 ---
 
-# LA INDUSTRIA FARMACÉUTICA ESTÁ CONCENTRADA
+# The pharmaceutical industry is highly concentrated
 
-Esta industria funciona prácticamente como un monopolio. Los 20 laboratorios más grandes a nivel mundial concentran el 60% de las ventas globales de la industria farmacéutica. Estas empresas tienen el poder para influenciar la política global de salud poniendo sus ganancias por sobre la vida de las personas. Mientras en los [países de ingresos altos y medio-altos más del 70% de la población ha sido vacunada, en los países de ingresos bajos esa cifra apenas supera el 15%](https://ourworldindata.org/coronavirus#explore-the-global-situation). Con respecto a los nuevos tratamientos, [Pfizer hasta finales de marzo](https://s28.q4cdn.com/781576035/files/doc_financials/2022/q1/PFE-USQ_Transcript_2022-05-03.pdf) había logrado producir 8 millones de tratamientos de su antiviral Paxlovid, casi la totalidad de los envíos fueron para su uso en Estados Unidos, Canadá, Japón, algunos países de la Unión Europea, Corea del Sur, Israel, Australia y el Reino Unido, todos países de ingresos altos.
+This industry operates practically as a monopoly. The 20 biggest laboratories worldwide concentrate 60% of the pharmaceutical industry’s global sales. These companies have the power to influence global health policy placing their profits before human lives.  While in [high and medium-high income countries more than 80% of the population has been vaccinated, in low-income countries the figure is barely above 20%](https://ourworldindata.org/coronavirus#explore-the-global-situation). As regards new treatments, By late March, [Pfizer](https://s28.q4cdn.com/781576035/files/doc_financials/2022/q1/PFE-USQ_Transcript_2022-05-03.pdf) had produced 8 million treatments of its antiviral drug Paxlovid, of which almost all shipments were for use in the United States, Canada, Japan, some countries in the European Union, South Korea, Israel, Australia, and the United Kingdom, all high-income countries.
