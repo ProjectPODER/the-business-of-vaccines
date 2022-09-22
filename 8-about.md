@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /sobre-el-proyecto/
+permalink: /about/
 ---
 
 # Who we are
@@ -21,7 +21,7 @@ La Ruta de las Vacuna$ es una representación cartográfica de información de l
 # Visualización y micrositio
 
 El proyecto utiliza el sistema [Tower Builder](https://towerbuilder.readthedocs.io/es/latest/index.html), creado por PODER, para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes procesos de compra, se ha usado anteriormente para el monitoreo de grandes obras públicas como en [TorreDeControl](https://poderlatam.org/project/naicm/) y de las [compras públicas del IMSS](https://saluddineroycorrupcion.quienesquien.wiki/es/salud)
- 
+
 
 # Credits
 

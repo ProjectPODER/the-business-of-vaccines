@@ -227,13 +227,13 @@ function populateContracts( data ) {
             childContent +=     '</tr>';
             childContent +=     '<tr>';
             childContent +=         '<td width="50%">';
-            childContent +=             'Dosis: ' + $.fn.dataTable.render.number( ',', '.', 2, '' ).display(contract.amount) + '<br />';
-            childContent +=             'Tipo de Procedimiento: ' + contract.procedure_type;
+            childContent +=             'Doses: ' + $.fn.dataTable.render.number( ',', '.', 2, '' ).display(contract.amount) + '<br />';
+            childContent +=             'Procedure Type: ' + contract.procedure_type;
             childContent +=         '</td>';
             childContent +=         '<td width="50%">';
-            childContent +=             'Inicio: ' + start_date[0] + '<br />';
+            childContent +=             'Start date: ' + start_date[0] + '<br />';
             if(contract.end_date)
-                childContent +=         'Finalización: ' + end_date[0] + '<br />';
+                childContent +=         'End date: ' + end_date[0] + '<br />';
             childContent +=             'OCID: ' + contract.ocid;
             childContent +=         '</td>';
             childContent +=     '</tr>';

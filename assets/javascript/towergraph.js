@@ -1801,8 +1801,8 @@ function setupD3() {
                 const contractsAmountText = AppData.texts.contracts_amount_text;
                 return `
                       <p class="title">${projectTitle}</p>
-                <p>Número de contratos: <span>${contractsTotalText}</span></p>
-                <p>Dosis: <span>${contractsAmountText}M</span></p>
+                <p>Contracts number: <span>${contractsTotalText}</span></p>
+                <p>Doses: <span>${contractsAmountText}M</span></p>
                 `; // FIXME esto debe ser parametrizable para cambiar el título del proyecto dentro del tooltip
                 break;
               }
@@ -1812,8 +1812,8 @@ function setupD3() {
                 const contractsAmountText = numberWithCommas((+ d.contractsAmount).toFixed(0));
                 return `
                       <p class="title">${d.name}</p>
-                <p>Número de contratos: <span>${contractsCountText}</span></p>
-                <p>Dosis: <span>${contractsAmountText}</span></p>
+                <p>Contracts number: <span>${contractsCountText}</span></p>
+                <p>Doses: <span>${contractsAmountText}</span></p>
                 `;
                 break;
               }
@@ -1823,9 +1823,9 @@ function setupD3() {
                 const amountText = numberWithCommas((+ d.amount).toFixed(0));
                 return `
                       <p class="title">${d.name}</p>
-                      <span>Proveedores:</span>
+                      <span>Suppliers:</span>
                 <ul> ${suppliersListHTML}</ul>
-                <p>Dosis: <span>${amountText}</span></p>
+                <p>Doses: <span>${amountText}</span></p>
                 `;
                 break;
               }
@@ -1836,8 +1836,8 @@ function setupD3() {
                 const contractsAmount = numberWithCommas((+ d.contractsAmount).toFixed(0));
                 return `
                       <p class="title">${nameText}</p>
-                <p>Número de contratos: <span>${contractsCountText}</span></p>
-                <p>Dosis: <span>${contractsAmount}</span></p>
+                <p>Contracts number: <span>${contractsCountText}</span></p>
+                <p>Doses: <span>${contractsAmount}</span></p>
                 `;
                 break;
               }
@@ -1850,7 +1850,7 @@ function setupD3() {
                   : "orgs";
                 return `
                       <p class="title">${nameText}</p>
-                      <p>Contratos: ${contractsCount}</p>
+                      <p>Contracts: ${contractsCount}</p>
 
 
                 `;
@@ -1862,7 +1862,7 @@ function setupD3() {
                 const urlText = d.url;
                 return `
                       <p class="title">${nameText}</p>
-                      <p>Leer la nota:</p>
+                      <p>Read the article:</p>
                       <p><a rel="noreferrer noopener" target="_blank" href="${urlText}">${urlText}</a></p>
                 `;
                 break;
