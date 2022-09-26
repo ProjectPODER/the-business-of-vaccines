@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: mapa_vacunas_v3.png
+image: MAPA VACUNAS ING v3.png
 ---
 
 # The route of vaccines
