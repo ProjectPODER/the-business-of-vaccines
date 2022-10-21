@@ -11,7 +11,7 @@ In Mexico, 8 types of vaccines have been applied: AztraZeneca, Pfizer-BioNTech, 
 
 <!-- Añadir el pdf -->
 <div class="embed-responsive embed-responsive-4by3 mb-4">
-  <iframe class="embed-responsive-item" src="/Vacunas/assets/docs/vacunas_inglesv3.pdf"></iframe>
+  <iframe class="embed-responsive-item" src="{{ site.baseurl }}/assets/docs/theBusinessofVaccines.pdf"></iframe>
 </div>
 
 <div class="text-center mb-5">
