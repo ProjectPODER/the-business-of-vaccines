@@ -15,5 +15,5 @@ In Mexico, 8 types of vaccines have been applied: AztraZeneca, Pfizer-BioNTech, 
 </div>
 
 <div class="text-center mb-5">
-  <a class="btn btn-primary" href="https://poderlatam.org/wp-content/uploads/2022/10/Vacunas_InglesVF.pdf" target="_blank" download>Descarga el informe</a>
+  <a class="btn btn-primary" href="https://poderlatam.org/wp-content/uploads/2022/10/Vacunas_InglesVF.pdf" target="_blank" download>Download report</a>
 </div>
